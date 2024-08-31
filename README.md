@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!+👋;+on+my+GitHub!;" />
 </h1>
 
-<h3 align="center">A beginner web developer from France 🇫🇷</h3>
+<h3 align="center">A junior Laravel developer from France 🇫🇷</h3>
 
 <br/>
 
@@ -12,11 +12,7 @@
  
  🔭 Actually im working on **few projects**
  
- 🌱 I’m increasing my skills on **PHP, JavaScript, Git**
-
- 💬 Ask me about **Not, Dev, Problem...**
-
- ⚡ Interests **BMW cars, Car aesthetics, Games...**
+ 🌱 I’m increasing my skills on **Laravel Stack**
 
  </div>
  
@@ -37,8 +33,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,html,css,sass,vscode,phpstorm,webstorm,github,git,figma" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,php,mongodb,mysql,mariadb" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,html,css,sass,github,git,figma,laravel,livewire" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,php,mongodb,mysql," /><br>
 </div>
 
 <br/>
